@@ -220,9 +220,9 @@
           href="ServingRelationship_id-d763682a8ebe460b9266e80c9982dfb2.xml#id-d763682a8ebe460b9266e80c9982dfb2"/>
     </sourceConnections>
     <bounds
-        x="460"
-        y="183"
-        width="120"
+        x="443"
+        y="180"
+        width="165"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
