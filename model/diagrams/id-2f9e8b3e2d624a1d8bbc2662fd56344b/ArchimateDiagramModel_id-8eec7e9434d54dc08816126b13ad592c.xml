@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Portofolio"
+    name="1. Application Portofolio"
     id="id-8eec7e9434d54dc08816126b13ad592c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,8 +31,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d875ca6a4867414891a9758b89a7b66e">
     <bounds
-        x="392"
-        y="103"
+        x="-30"
+        y="192"
         width="121"
         height="73"/>
     <archimateElement
@@ -43,8 +43,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-de76f7a76fba482d8e6a956acdcba473">
     <bounds
-        x="536"
-        y="103"
+        x="116"
+        y="192"
         width="133"
         height="73"/>
     <archimateElement
@@ -55,8 +55,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-73fdde3b56fe4347bede631bf55b07f6">
     <bounds
-        x="704"
-        y="103"
+        x="264"
+        y="192"
         width="145"
         height="73"/>
     <archimateElement
@@ -67,10 +67,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6731b0d9095a4aaab5c3f5c07dabc7c0">
     <bounds
-        x="122"
-        y="199"
+        x="-48"
+        y="103"
         width="139"
-        height="85"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-5f38f20fe4184317b229e73d5b05f9c1.xml#id-5f38f20fe4184317b229e73d5b05f9c1"/>
