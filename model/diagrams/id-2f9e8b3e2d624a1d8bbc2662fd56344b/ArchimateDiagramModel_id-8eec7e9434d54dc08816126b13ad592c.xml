@@ -7,9 +7,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d875ca6a4867414891a9758b89a7b66e">
     <bounds
-        x="-30"
+        x="-39"
         y="192"
-        width="121"
+        width="130"
         height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -38,5 +38,29 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-5f38f20fe4184317b229e73d5b05f9c1.xml#id-5f38f20fe4184317b229e73d5b05f9c1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ba290c7535f242968238c1f5475ba734">
+    <bounds
+        x="276"
+        y="103"
+        width="133"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-99dba65048364963a75b8344694758db.xml#id-99dba65048364963a75b8344694758db"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a8d45a73c08b441d98cfdb3f7b970de6">
+    <bounds
+        x="108"
+        y="192"
+        width="145"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-3db98b2e93fa470285c4079f1699fd96.xml#id-3db98b2e93fa470285c4079f1699fd96"/>
   </children>
 </archimate:ArchimateDiagramModel>
