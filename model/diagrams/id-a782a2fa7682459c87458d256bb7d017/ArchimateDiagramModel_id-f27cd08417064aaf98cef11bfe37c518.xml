@@ -5,18 +5,6 @@
     id="id-f27cd08417064aaf98cef11bfe37c518">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d8cc6c6e1bb84edb8d1a3d145c40aa37">
-    <bounds
-        x="666"
-        y="33"
-        width="121"
-        height="640"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_id-5880b0fc46fa4cde912bf6b507879e88.xml#id-5880b0fc46fa4cde912bf6b507879e88"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-35cae866f86347928830f4b29cf4f106">
     <bounds
         x="261"
