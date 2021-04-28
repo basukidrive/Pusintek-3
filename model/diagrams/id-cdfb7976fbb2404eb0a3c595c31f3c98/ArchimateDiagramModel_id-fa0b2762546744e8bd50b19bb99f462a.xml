@@ -78,7 +78,7 @@
         id="id-2479272fe5f3433ab9414293e6663b28"
         targetConnections="id-0a371533d0864d9295f37bfcd8d1157d">
       <bounds
-          x="360"
+          x="528"
           y="72"
           width="120"
           height="55"/>
@@ -91,7 +91,7 @@
         id="id-e7993e3c68f0428e9bf49c4c7c79629c"
         targetConnections="id-428e2bf255d84773a5b8e6d8038099b2">
       <bounds
-          x="528"
+          x="360"
           y="72"
           width="120"
           height="55"/>
