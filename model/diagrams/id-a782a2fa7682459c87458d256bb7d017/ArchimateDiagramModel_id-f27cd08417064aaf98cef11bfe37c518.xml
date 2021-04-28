@@ -340,11 +340,33 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a658093731e546f9acdc59774208aa0c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7197e1e65c08414794c0b394e630887b"
+        source="id-a658093731e546f9acdc59774208aa0c"
+        target="id-ee9bbb481b734429b8e2a52bfe2369bc">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-b92fa582b7954f808e7bf30ecbb57a46.xml#id-b92fa582b7954f808e7bf30ecbb57a46"/>
+    </sourceConnections>
     <bounds
         x="138"
         y="33"
         width="85"
         height="640"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ee9bbb481b734429b8e2a52bfe2369bc"
+        targetConnections="id-7197e1e65c08414794c0b394e630887b">
+      <bounds
+          x="24"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyFunction"
+          href="TechnologyFunction_id-e649ff60c72e41b4bec84b08b0c53bb9.xml#id-e649ff60c72e41b4bec84b08b0c53bb9"/>
+    </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-eff2263cfc4e4005aaaa018122609ec9.xml#id-eff2263cfc4e4005aaaa018122609ec9"/>
