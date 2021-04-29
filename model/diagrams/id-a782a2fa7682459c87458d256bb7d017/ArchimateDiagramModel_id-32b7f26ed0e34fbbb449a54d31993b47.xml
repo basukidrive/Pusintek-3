@@ -8,7 +8,7 @@
       id="id-cd9a79de6c5142939159b929c84e4ec3"
       targetConnections="id-b1df9184409f4944abc548348c35628b id-433982d2714d497392119940b8d99370 id-2ba61a1d14b142cd967958c24c9b394e id-e45764c1ba5c4e6bb0bd932e4c64abd2">
     <bounds
-        x="175"
+        x="240"
         y="-24"
         width="120"
         height="55"/>
@@ -47,7 +47,7 @@
           href="ServingRelationship_id-ee2e9c1e23954cb5b1f93eb9e8d52f3b.xml#id-ee2e9c1e23954cb5b1f93eb9e8d52f3b"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="101"
         y="-168"
         width="397"
         height="115"/>

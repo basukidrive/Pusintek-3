@@ -153,7 +153,7 @@
     </sourceConnections>
     <bounds
         x="1200"
-        y="138"
+        y="166"
         width="120"
         height="55"/>
     <archimateElement
@@ -174,7 +174,7 @@
     </sourceConnections>
     <bounds
         x="1200"
-        y="220"
+        y="238"
         width="120"
         height="55"/>
     <archimateElement
@@ -635,7 +635,7 @@
     </sourceConnections>
     <bounds
         x="1056"
-        y="210"
+        y="228"
         width="120"
         height="76"/>
     <archimateElement
@@ -656,7 +656,7 @@
     </sourceConnections>
     <bounds
         x="1200"
-        y="300"
+        y="318"
         width="120"
         height="55"/>
     <archimateElement

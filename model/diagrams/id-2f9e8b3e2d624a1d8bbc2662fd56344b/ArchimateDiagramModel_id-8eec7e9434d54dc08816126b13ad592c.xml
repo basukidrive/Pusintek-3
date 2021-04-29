@@ -5,6 +5,19 @@
     id="id-8eec7e9434d54dc08816126b13ad592c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-845569d2a3984a66aaf13415a3a18f92"
+      textAlignment="1">
+    <bounds
+        x="-39"
+        y="324"
+        width="352"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-92bd96b6a54f4a02afac49d7e6c2ea52.xml#id-92bd96b6a54f4a02afac49d7e6c2ea52"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d875ca6a4867414891a9758b89a7b66e">
     <bounds
         x="-39"
@@ -71,9 +84,9 @@
       id="id-188ae61ba6474842ae975fe634a183f8"
       fillColor="#ff00ff">
     <bounds
-        x="-39"
-        y="336"
-        width="139"
+        x="-30"
+        y="354"
+        width="111"
         height="37"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -83,9 +96,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8cd8116df6944c2ca8f4055915b9f21d">
     <bounds
-        x="116"
-        y="336"
-        width="125"
+        x="93"
+        y="354"
+        width="97"
         height="37"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -109,9 +122,9 @@
       id="id-63c0160eeefd4d00a2f59b055342147e"
       fillColor="#80ff80">
     <bounds
-        x="264"
-        y="336"
-        width="125"
+        x="201"
+        y="354"
+        width="97"
         height="37"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
