@@ -49,7 +49,7 @@
         x="72"
         y="60"
         width="169"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-b760502f021f4db18a10a69c99e31e49.xml#id-b760502f021f4db18a10a69c99e31e49"/>
@@ -59,7 +59,7 @@
       id="id-5e0d608f675749fdb4427f1b91378084">
     <bounds
         x="264"
-        y="120"
+        y="132"
         width="361"
         height="25"/>
     <archimateElement
@@ -71,7 +71,7 @@
       id="id-8a314e4ecaf44738849d01582b82dfbf">
     <bounds
         x="456"
-        y="156"
+        y="168"
         width="169"
         height="37"/>
     <archimateElement
